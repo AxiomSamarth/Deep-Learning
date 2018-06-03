@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\My_Arena\\PythonCodes\\Deep Learning with Neural Networks\\9-Emotion Recognition\\emotion-0.001-12conv-basic.model"
+all_model_checkpoint_paths: "E:\\My_Arena\\PythonCodes\\Deep Learning with Neural Networks\\9-Emotion Recognition\\emotion-0.001-12conv-basic.model"
